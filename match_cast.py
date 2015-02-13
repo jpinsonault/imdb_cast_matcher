@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+from imdb import IMDb
+
 
 def main():
     pass
